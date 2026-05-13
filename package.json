@@ -2,13 +2,13 @@
   "name": "@figma/my-make-file",
   "private": true,
   "version": "0.0.1",
-   "home": "http://MohamedUwk22.github.io/Mohamed-Portfolio-"
+  "homepage": "https://MohamedUwk22.github.io/Mohamed-Portfolio-/",
   "type": "module",
   "scripts": {
     "build": "vite build",
-    "dev": "vite",
-    "predeploy":"npm run build",
-    "deploy": "gh-pages -d build"
+     "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "11.14.0",

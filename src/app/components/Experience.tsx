@@ -1,29 +1,27 @@
 export function Experience() {
   const experiences = [
     {
-      company: 'Tech Innovations Inc.',
-      role: 'Senior Frontend Developer',
-      period: '2022 - Present',
+      company: 'Junior Frontend Developer & UI Specialist',
+      role: 'Freelancer upwork',
+      period: '2024 – Present',
       achievements: [
-        'Led frontend architecture redesign, improving performance by 40%',
-        'Mentored team of 5 junior developers',
-        'Implemented component library used across 3 major products'
-      ]
+        'eveloped high-quality web interfaces using React.js and SCSS, ensuring fully responsive designs for various client projects',
+      'Built and deployed a full-scale E-commerce platform with dynamic filtering and a seamless shopping cart experienc'      ]
     },
     {
-      company: 'Digital Solutions Co.',
+      company: 'Route Frontend Devoloper',
       role: 'Frontend Developer',
-      period: '2019 - 2022',
+      period: '2021 - 2022',
       achievements: [
         'Built responsive web applications serving 500K+ users',
         'Reduced bundle size by 60% through code-splitting',
-        'Championed accessibility standards (WCAG 2.1 AA)'
+        'Bridges the gap between design and code, ensuring that the visual interface is implemented exactly as designed in tools like Figma.'
       ]
     },
     {
-      company: 'StartupLabs',
-      role: 'Junior Frontend Developer',
-      period: '2017 - 2019',
+      company: 'Khamsat Freelancer',
+      role: 'Frontend Developer',
+      period: '2023 - 2024',
       achievements: [
         'Developed customer-facing dashboards with React',
         'Collaborated with designers to implement pixel-perfect UIs',
